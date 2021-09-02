@@ -1,5 +1,5 @@
 ## Hello, My name is Rubén Lara, I'm from Costa Rica.
-# A student who wants to be a developer, currently studiyng Bachellor's degree at UNED.
+### A student who wants to be a developer, currently studiyng Bachellor's degree at UNED.
 
 - I studied Law and graduated from Universidad de Costa Rica.
 - Because life lessons I decided to enter the Computer Engineering major at UNED, which I am now in love of.
