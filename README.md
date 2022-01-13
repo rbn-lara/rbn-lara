@@ -5,7 +5,7 @@
 - Because life lessons I decided to enter the Computer Engineering major at UNED, which I am now in love of.
 - I'm interested in software development, information security and machine learning.
 - My goals are graduating from Bachellor's degree and working in different projects to gain experience.
-- My hobbies are: making videos, draw, playing chess, football, puzzles and hiking.
+- My hobbies are: making videos, drawing, playing chess, football, puzzles and hiking.
 
 ## My contact
 
